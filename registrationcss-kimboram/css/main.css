@@ -1,0 +1,51 @@
+section {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+  padding: 50px;
+  margin: 100px auto;
+  width: 500px;
+}
+h1 {
+  line-height: 200%;
+  border-bottom: 1px solid black;
+  margin: 10px 0;
+}
+div {
+  font-weight: bold;
+  line-height: 130%;
+  margin: 10px 0;
+}
+input {
+  padding: 9px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 0;
+}
+p {
+  font-weight: bold;
+}
+#email {
+  width: 87%;
+  background-color: rgb(185, 218, 255);
+  color: black;
+}
+#password {
+  width: 84%;
+  background-color: rgb(185, 218, 255);
+  color: black;
+}
+option {
+  background-color: rgb(185, 218, 255);
+}
+button {
+  background-color: black;
+  width: 100%;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 20px 0;
+  cursor: pointer;
+}
